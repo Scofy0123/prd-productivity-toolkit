@@ -1,0 +1,12 @@
+repository:
+  description: "AI PRD generation, PRD review, and Feishu/Lark collaboration workflows for B2B product management and system design."
+  topics:
+    - ai-prd-generation
+    - prd-review
+    - b2b-product-management
+    - system-design
+    - feishu
+    - lark
+    - delivery-gate
+    - claude-code
+    - productivity
